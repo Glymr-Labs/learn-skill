@@ -4,7 +4,10 @@ A framework-agnostic skill package for capturing what an AI agent learns during 
 
 **Author:** Glymr — continuous learning for AI coding agents.
 
+**License:** [Apache License 2.0](LICENSE)
+
 ---
+
 
 ## Overview
 

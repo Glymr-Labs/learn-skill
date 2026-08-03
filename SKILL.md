@@ -1,6 +1,7 @@
 ---
 name: learn-skill
 description: Extracts durable rules, preferences, conventions, and corrections from a conversation and persists them to agent memory files (AGENTS.md for project scope, a configurable path for global scope). Use when the user says "/learn", "remember this", or "save this rule", after the user corrects the agent, after a hard-won debugging or configuration fix, or when reviewing a finished session for anything worth keeping.
+license: Apache-2.0
 metadata:
   author: Glymr
   version: "1.0"
