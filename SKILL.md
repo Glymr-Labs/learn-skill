@@ -4,6 +4,7 @@ description: Extracts durable rules, preferences, conventions, and corrections f
 license: Apache-2.0
 metadata:
   author: Glymr
+  creator: Andrew Mata (https://github.com/andrewmata361)
   version: "1.0"
 ---
 
